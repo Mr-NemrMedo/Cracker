@@ -1,0 +1,7 @@
+python script to find facebook accounts that 
+have password same as phone number
+
+git clone https://github.com/Mr-NemrMedo/Cracker
+
+share it with your frinds 
+
